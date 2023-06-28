@@ -17,6 +17,8 @@
 <br>
 
 ## 3. 최종 디스플레이 화면 
-<img width="33%" src="https://github.com/hijjoy/uiux_processing/assets/89793335/6b315242-5f9c-4d27-ade1-ea264dabc930">
-<img width="33%" src="https://github.com/hijjoy/uiux_processing/assets/89793335/ada44192-0463-4d30-b3a4-8843e1015d84">
-<img width="33%" src="https://github.com/hijjoy/uiux_processing/assets/89793335/3d97a11b-40a7-4aab-96b6-113b12fa6374">
+<div align="center">
+  <img width="25%" src="https://github.com/hijjoy/uiux_processing/assets/89793335/6b315242-5f9c-4d27-ade1-ea264dabc930">
+  <img width="25%" src="https://github.com/hijjoy/uiux_processing/assets/89793335/ada44192-0463-4d30-b3a4-8843e1015d84">
+  <img width="25%" src="https://github.com/hijjoy/uiux_processing/assets/89793335/3d97a11b-40a7-4aab-96b6-113b12fa6374">
+</div>
